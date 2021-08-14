@@ -4,20 +4,6 @@
 
 ![keep shining](https://user-images.githubusercontent.com/73083341/129433580-ea4ba963-9bcd-4d07-a078-147d6bbedbdd.png)
 
-## Development setup
-
-pip install beepy
-pip install random
-pip install webbrowser
-pip install os
-pip install time
-pip install urllib.request
-pip install urllib.parse
-pip install re
-pip install pyttsx3
-pip install datetime
-pip install wikipedia
-
 ## Meta
 
 Jorge Eldis ~ [@jorgeeldis](https://twitter.com/jorgeeldis) ~ jorgeeldisg30@gmail.com
